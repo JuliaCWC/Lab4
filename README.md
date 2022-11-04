@@ -1,2 +1,3 @@
 # Lab4
 To jest repozytorium na laboratorium Narzędzia CASE
+Dziś jest...
